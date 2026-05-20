@@ -1,0 +1,12 @@
+*.pt
+*.Zone.Identifier
+*:Zone.Identifier
+__pycache__/
+*.pyc
+.ipynb_checkpoints/
+outputs/*.csv
+outputs/*.json
+outputs/*.png
+figures/*.png
+*.egg-info/
+.env
