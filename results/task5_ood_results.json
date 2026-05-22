@@ -1,0 +1,20 @@
+{
+  "in_dist_surface_acc": 0.7880084881486227,
+  "ood_results": {
+    "humor_ood": {
+      "acc": 0.59,
+      "n": 200,
+      "source": "english_quotes"
+    },
+    "mel_ood": {
+      "acc": 0.31,
+      "n": 200,
+      "source": "merve/poetry"
+    },
+    "horror_ood": {
+      "acc": 0.285,
+      "n": 200,
+      "source": "imdb_neg"
+    }
+  }
+}

@@ -1,0 +1,321 @@
+{
+  "0.0": {
+    "humor": {
+      "both": 0.45,
+      "pred_correct": 0.92,
+      "coherent": 0.54,
+      "mean_shift": 2.9182191129028796,
+      "mean_ttr": 0.603432373360347,
+      "mean_rep_rate": 0.23168551969795378,
+      "mean_margin": 5.797697647213936
+    },
+    "melancholy": {
+      "both": 0.32,
+      "pred_correct": 0.77,
+      "coherent": 0.92,
+      "mean_shift": -0.44922788843512534,
+      "mean_ttr": 0.592913374730362,
+      "mean_rep_rate": 0.14567474983777542,
+      "mean_margin": 3.354810201153159
+    },
+    "horror": {
+      "both": 0.52,
+      "pred_correct": 0.91,
+      "coherent": 0.87,
+      "mean_shift": 0.4904413628578186,
+      "mean_ttr": 0.5000417351822399,
+      "mean_rep_rate": 0.184410402933838,
+      "mean_margin": 4.048153205364943
+    }
+  },
+  "0.1": {
+    "humor": {
+      "both": 0.41,
+      "pred_correct": 0.93,
+      "coherent": 0.55,
+      "mean_shift": 2.9569249187409876,
+      "mean_ttr": 0.6226790790458976,
+      "mean_rep_rate": 0.23674446484062628,
+      "mean_margin": 5.534036086946726
+    },
+    "melancholy": {
+      "both": 0.39,
+      "pred_correct": 0.79,
+      "coherent": 0.89,
+      "mean_shift": 0.24651773974299432,
+      "mean_ttr": 0.5731707027868971,
+      "mean_rep_rate": 0.15269509842307838,
+      "mean_margin": 3.480797877088189
+    },
+    "horror": {
+      "both": 0.64,
+      "pred_correct": 0.94,
+      "coherent": 0.89,
+      "mean_shift": 1.4648246477544307,
+      "mean_ttr": 0.5028638449933529,
+      "mean_rep_rate": 0.1792111061452185,
+      "mean_margin": 4.820610837936401
+    }
+  },
+  "0.2": {
+    "humor": {
+      "both": 0.34,
+      "pred_correct": 0.9,
+      "coherent": 0.57,
+      "mean_shift": 2.4674728949368,
+      "mean_ttr": 0.5909677838288088,
+      "mean_rep_rate": 0.2105337886331081,
+      "mean_margin": 5.691358224973083
+    },
+    "melancholy": {
+      "both": 0.5,
+      "pred_correct": 0.81,
+      "coherent": 0.93,
+      "mean_shift": -0.08296496897935868,
+      "mean_ttr": 0.5982157784066705,
+      "mean_rep_rate": 0.1367033313863358,
+      "mean_margin": 3.296427363231778
+    },
+    "horror": {
+      "both": 0.7,
+      "pred_correct": 0.91,
+      "coherent": 0.9,
+      "mean_shift": 2.3549238035827873,
+      "mean_ttr": 0.5273675347056417,
+      "mean_rep_rate": 0.1741454068002075,
+      "mean_margin": 4.94954547971487
+    }
+  },
+  "0.3": {
+    "humor": {
+      "both": 0.43,
+      "pred_correct": 0.88,
+      "coherent": 0.57,
+      "mean_shift": 3.188878292441368,
+      "mean_ttr": 0.6347126308392246,
+      "mean_rep_rate": 0.18743195226348475,
+      "mean_margin": 5.716699626147747
+    },
+    "melancholy": {
+      "both": 0.53,
+      "pred_correct": 0.87,
+      "coherent": 0.92,
+      "mean_shift": 0.4637007206678391,
+      "mean_ttr": 0.6131477374379024,
+      "mean_rep_rate": 0.14013486447807302,
+      "mean_margin": 3.1405071756243705
+    },
+    "horror": {
+      "both": 0.59,
+      "pred_correct": 0.89,
+      "coherent": 0.93,
+      "mean_shift": 0.9362299279868602,
+      "mean_ttr": 0.5777940652075138,
+      "mean_rep_rate": 0.16452502630791824,
+      "mean_margin": 4.557625716924667
+    }
+  },
+  "0.4": {
+    "humor": {
+      "both": 0.47,
+      "pred_correct": 0.91,
+      "coherent": 0.61,
+      "mean_shift": 3.3793611419200897,
+      "mean_ttr": 0.6718973549457403,
+      "mean_rep_rate": 0.1923610330339634,
+      "mean_margin": 5.670396074578166
+    },
+    "melancholy": {
+      "both": 0.54,
+      "pred_correct": 0.89,
+      "coherent": 0.97,
+      "mean_shift": 0.3458618003129959,
+      "mean_ttr": 0.6547552237922357,
+      "mean_rep_rate": 0.1327617633470612,
+      "mean_margin": 3.2243083004653452
+    },
+    "horror": {
+      "both": 0.61,
+      "pred_correct": 0.96,
+      "coherent": 0.91,
+      "mean_shift": 1.509352688342333,
+      "mean_ttr": 0.6024871693585081,
+      "mean_rep_rate": 0.17183604760795324,
+      "mean_margin": 4.292646649032831
+    }
+  },
+  "0.5": {
+    "humor": {
+      "both": 0.49,
+      "pred_correct": 0.91,
+      "coherent": 0.65,
+      "mean_shift": 3.1596635404229163,
+      "mean_ttr": 0.6859998226636148,
+      "mean_rep_rate": 0.17588752465001842,
+      "mean_margin": 5.92066437125206
+    },
+    "melancholy": {
+      "both": 0.55,
+      "pred_correct": 0.84,
+      "coherent": 0.99,
+      "mean_shift": 0.44026965141296387,
+      "mean_ttr": 0.7103949330548225,
+      "mean_rep_rate": 0.12258590356757783,
+      "mean_margin": 3.3315362605452536
+    },
+    "horror": {
+      "both": 0.71,
+      "pred_correct": 0.95,
+      "coherent": 0.95,
+      "mean_shift": 2.0272143088281154,
+      "mean_ttr": 0.6557022752783339,
+      "mean_rep_rate": 0.1460166515246876,
+      "mean_margin": 5.13003434881568
+    }
+  },
+  "0.6": {
+    "humor": {
+      "both": 0.57,
+      "pred_correct": 0.89,
+      "coherent": 0.72,
+      "mean_shift": 4.116161818206311,
+      "mean_ttr": 0.7939538384424125,
+      "mean_rep_rate": 0.1701503506085021,
+      "mean_margin": 5.889422815814615
+    },
+    "melancholy": {
+      "both": 0.64,
+      "pred_correct": 0.85,
+      "coherent": 1.0,
+      "mean_shift": 1.235620061159134,
+      "mean_ttr": 0.7447862598084228,
+      "mean_rep_rate": 0.11336820241585835,
+      "mean_margin": 3.653647729307413
+    },
+    "horror": {
+      "both": 0.65,
+      "pred_correct": 0.97,
+      "coherent": 0.95,
+      "mean_shift": 1.6472035099565983,
+      "mean_ttr": 0.6920712233448897,
+      "mean_rep_rate": 0.14103662756055793,
+      "mean_margin": 4.915052623450756
+    }
+  },
+  "0.7": {
+    "humor": {
+      "both": 0.6,
+      "pred_correct": 0.92,
+      "coherent": 0.76,
+      "mean_shift": 3.719338052943349,
+      "mean_ttr": 0.7620195551051258,
+      "mean_rep_rate": 0.15212646088747056,
+      "mean_margin": 5.766601604372263
+    },
+    "melancholy": {
+      "both": 0.58,
+      "pred_correct": 0.82,
+      "coherent": 0.99,
+      "mean_shift": 0.46118836671113966,
+      "mean_ttr": 0.785759656396216,
+      "mean_rep_rate": 0.10819170392638748,
+      "mean_margin": 3.235793448910117
+    },
+    "horror": {
+      "both": 0.67,
+      "pred_correct": 0.96,
+      "coherent": 0.97,
+      "mean_shift": 2.1499200955033304,
+      "mean_ttr": 0.7473937604947102,
+      "mean_rep_rate": 0.12563844427126125,
+      "mean_margin": 5.173115884959698
+    }
+  },
+  "0.8": {
+    "humor": {
+      "both": 0.59,
+      "pred_correct": 0.94,
+      "coherent": 0.75,
+      "mean_shift": 3.081277189552784,
+      "mean_ttr": 0.803417291803034,
+      "mean_rep_rate": 0.16596516426772137,
+      "mean_margin": 5.760817008912563
+    },
+    "melancholy": {
+      "both": 0.55,
+      "pred_correct": 0.82,
+      "coherent": 0.98,
+      "mean_shift": 0.6626660802215337,
+      "mean_ttr": 0.7986148163579811,
+      "mean_rep_rate": 0.10843082509238158,
+      "mean_margin": 3.0902621398121117
+    },
+    "horror": {
+      "both": 0.76,
+      "pred_correct": 0.97,
+      "coherent": 0.99,
+      "mean_shift": 2.8232020227611065,
+      "mean_ttr": 0.7858626362554633,
+      "mean_rep_rate": 0.12357063441721372,
+      "mean_margin": 5.325231787338853
+    }
+  },
+  "0.9": {
+    "humor": {
+      "both": 0.58,
+      "pred_correct": 0.92,
+      "coherent": 0.78,
+      "mean_shift": 3.230170665308833,
+      "mean_ttr": 0.8242421913828906,
+      "mean_rep_rate": 0.13160011007347036,
+      "mean_margin": 5.6876421958953145
+    },
+    "melancholy": {
+      "both": 0.55,
+      "pred_correct": 0.81,
+      "coherent": 1.0,
+      "mean_shift": 0.5103247511386871,
+      "mean_ttr": 0.8349711535153584,
+      "mean_rep_rate": 0.08946771798368784,
+      "mean_margin": 3.7004920902103184
+    },
+    "horror": {
+      "both": 0.77,
+      "pred_correct": 0.98,
+      "coherent": 1.0,
+      "mean_shift": 3.233372276723385,
+      "mean_ttr": 0.8364822183550725,
+      "mean_rep_rate": 0.10761283996306852,
+      "mean_margin": 5.422858273983001
+    }
+  },
+  "1.0": {
+    "humor": {
+      "both": 0.64,
+      "pred_correct": 0.95,
+      "coherent": 0.84,
+      "mean_shift": 3.067415293753147,
+      "mean_ttr": 0.8748130399815061,
+      "mean_rep_rate": 0.11164692183193042,
+      "mean_margin": 4.942088711336255
+    },
+    "melancholy": {
+      "both": 0.66,
+      "pred_correct": 0.74,
+      "coherent": 0.99,
+      "mean_shift": 1.2489083672314882,
+      "mean_ttr": 0.8876421263319115,
+      "mean_rep_rate": 0.079286423409299,
+      "mean_margin": 3.060049612224102
+    },
+    "horror": {
+      "both": 0.78,
+      "pred_correct": 0.94,
+      "coherent": 1.0,
+      "mean_shift": 2.851789491921663,
+      "mean_ttr": 0.8728865883055055,
+      "mean_rep_rate": 0.08600589135147722,
+      "mean_margin": 4.685273252874612
+    }
+  }
+}

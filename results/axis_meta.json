@@ -1,0 +1,37 @@
+{
+  "depth": {
+    "pc": 1,
+    "variance": 0.2393,
+    "positive": "emotional richness (wistfulness, tenderness, melancholy)",
+    "negative": "detachment/flatness (clinical, analytical, dry)"
+  },
+  "arousal": {
+    "pc": 2,
+    "variance": 0.1904,
+    "positive": "high arousal (frenzy, panic, rage, terror)",
+    "negative": "low arousal (serenity, detachment, analytical)"
+  },
+  "darkbright": {
+    "pc": 3,
+    "variance": 0.1696,
+    "positive": "dark narrative (horror, grief, dread, despair)",
+    "negative": "bright energy (elation, joy, excitement, mania)"
+  },
+  "emnlp_poles_in_space": {
+    "humor": {
+      "depth": -4.611,
+      "arousal": 0.931,
+      "darkbright": -2.723
+    },
+    "melancholy": {
+      "depth": 3.882,
+      "arousal": -1.503,
+      "darkbright": 1.72
+    },
+    "horror": {
+      "depth": 0.661,
+      "arousal": 2.012,
+      "darkbright": 3.158
+    }
+  }
+}

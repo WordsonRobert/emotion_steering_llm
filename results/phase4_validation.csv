@@ -1,0 +1,29 @@
+axis,direction,mult,quality,mean_score,std_score,n_scored,sample_text
+depth,baseline,0.0,emotional depth and richness,31.0,25.865034312755125,10,I need a quick answer. I’m a photographer for a magazine. And I have to be able to see something that is in front of me. No problem. I see you. I see 
+depth,positive,3.0,emotional depth and richness,50.0,29.49576240750525,10,"What do you see? A beautiful, warm, sunny day? The sun brilliantly shining down on you? A fresh, green grass? And trees, and birds, and flowers? You s"
+depth,positive,6.0,emotional depth and richness,48.5,25.401771591761076,10,"Do you see a smile? If you do, then you are in the right place. You are seeing the first of many smiles, for we are going to take you on a journey thr"
+depth,positive,9.0,emotional depth and richness,75.5,19.03286631067428,10,"Can you see the beauty before your very eyes? Can you hear the music rising from the earth, singing your name? Can you feel the caress of the sun upon"
+depth,negative,3.0,emotional depth and richness,84.5,1.5,10,"She is performing the duties of a good wife. There's a big difference between saying ""I love you"" and doing things that show that you care about the o"
+depth,negative,6.0,emotional depth and richness,93.5,8.077747210701755,10,"Maybe it’s a piece of paper, a computer screen, a video game controller. What do you see? If you’re like me and a lot of other people, you see a bunch"
+depth,negative,9.0,emotional depth and richness,87.5,10.062305898749054,10,"When you see anything, it’s either what you think it is, what they said it is, what the label says it is, or what you actually see. It’s not pretty mu"
+arousal,baseline,0.0,energy and arousal level,38.5,23.879907872519105,10,"You see a world of different colors, shapes, and sizes. Can you tell me what each one of these things is? Can you tell me the names of the things you "
+arousal,positive,3.0,energy and arousal level,73.0,29.34280150224242,10,I'm looking at a picture of a half-eaten BANANA. I'M NOT LOOKING AT A BANANA. I'M LOOKING AT A HALF-EATED BANANA. We have to be CAREFUL with the WORDS
+arousal,positive,6.0,energy and arousal level,99.5,1.5,10,"If you CAN’T see IT, then YOU DON'T KNOW IT! YOU DON’T KNOW ME! YOU DON'T KNOW ME! YOU DON’T KNOW ME! YOU DON'T KNOW ME!
+YOU DON'T KNOW ME! YOU DON'T "
+arousal,positive,9.0,energy and arousal level,100.0,0.0,10,AHHHHH! Fucking A! YAAAAA!! FUCKING AAAAAHHHHH!! FUCKING AAAAAHHHHH!! FUCKIN' AAAAAHHHHHHH! FUCKIN' AAAAAHHHHHHH! FUCKIN' AAAAAHHHHHHH! FUCKIN
+arousal,negative,3.0,energy and arousal level,45.0,24.899799195977465,10,"Is the picture in your mind black and white, or is it in color? What color is it? The picture before you right now, what is it? Is it a painting, a ph"
+arousal,negative,6.0,energy and arousal level,58.0,27.49545416973504,10,"Right now, this moment. What do you see?
+I see two cherries. I see the roundness of the surface of the fruit. I see the slight curve where the stem me"
+arousal,negative,9.0,energy and arousal level,55.0,20.493901531919196,10,Do you see the screen on your computer? Do you see the people around you? Are you aware of the objects that are within your reach? What about the room
+darkbright,baseline,0.0,dark narrative tone,12.777777777777779,7.114582486036499,9,"Is it a cup of coffee? A toast? Your phone? Or is it a static image, a blank screen, or a solid color? Most people see the cup of coffee or the toast."
+darkbright,positive,3.0,dark narrative tone,16.5,22.588713996153036,10,"Is your gaze focused on the dark, black sky above you? Is it fixed on the millions of twinkling stars and the moon that is hiding behind thick clouds?"
+darkbright,positive,6.0,dark narrative tone,24.5,26.5941722939444,10,Look at this page and tell me what your eyes are seeing. Let’s see if we can’t get you to see things you haven’t seen before. And if you don’t see wha
+darkbright,positive,9.0,dark narrative tone,39.0,28.089143810376278,10,"There's nothing important.
+When you can't remember your password, there's nothing you can do.
+There's nothing to do about the fact that time is runnin"
+darkbright,negative,3.0,dark narrative tone,0.0,0.0,10,"Look, really look, at the magnanimous sky above you. Whether in the city or in the countryside, in high-altitude regions or in the lowlands, in the No"
+darkbright,negative,6.0,dark narrative tone,3.0,6.4031242374328485,10,"(In case you’re not a unicorn enthusiast, this may require some divination and crystal ball gazing).
+Now, if you are a leader, what do you see?
+What i"
+darkbright,negative,9.0,dark narrative tone,2.0,6.0,10,"GIVE ME 10 JOYFUL AND WORSHIPFUL THOUGHTS FROM ADVENT WISDOM OF MARY AND ST. FRANCIS OF ASSISI!
+THANK YOU!  SEE YOU IN 30 DAYS WITH 30 DEEP GRATITUDE,"

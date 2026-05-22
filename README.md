@@ -43,7 +43,7 @@ The short answer is yes, and the structure it uses matches what psychology alrea
 │   └── 10_emotional_axis_validation.py   — causal validation of the three axes via steering
 │
 ├── outputs/                      ← populated after running (not committed)
-└── figures/                      ← populated after running (not committed)
+└── results/                      ← populated after running (not committed)
 ```
 
 ---

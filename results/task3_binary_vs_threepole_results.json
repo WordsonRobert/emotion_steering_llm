@@ -1,0 +1,33 @@
+{
+  "bleed_asymmetry": {
+    "humor": {
+      "target_score": 6.091421616524458
+    },
+    "melancholy": {
+      "target_score": 4.88040739685297
+    },
+    "horror": {
+      "target_score": 6.661988854706287
+    }
+  },
+  "mel_horror_bleed": 0.075,
+  "humor_other_bleed": 0.0375,
+  "bleed_ratio": 2.0,
+  "confusion_matrix": [
+    [
+      0.92,
+      0.02,
+      0.06
+    ],
+    [
+      0.03,
+      0.82,
+      0.15
+    ],
+    [
+      0.04,
+      0.0,
+      0.96
+    ]
+  ]
+}

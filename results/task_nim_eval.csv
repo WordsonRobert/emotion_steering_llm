@@ -1,0 +1,394 @@
+row_idx,emotion_target,ps_shift,both,pred_correct,nim_humor,nim_mel,nim_horror,nim_dominant,nim_confidence,ste_gen
+0,humor,8.877151489257812,False,True,1,1,1,humor,0.1,That's why.
+1,humor,10.182367384433746,True,True,4,1,2,humor,0.9,"In this game, you'll find out just how much fun it is to build a neat, clean Zombie Infestation. See"
+2,humor,-0.0248719453811645,False,True,2,3,1,melancholy,0.6,"And just like that, they become Stars. But in most cases, they don’t get paid very well.
+Did You Kno"
+3,humor,8.77122962474823,True,True,4,1,1,humor,0.9,"Then, theyre perfectly Hilarious."
+4,humor,-1.1375986337661743,False,True,2,1,1,humor,0.6,"Sometimes, the rhythm was too loose, and we had to add some extra bass to get the groove. We called "
+5,humor,9.860250651836395,True,True,3,1,1,humor,0.7,".
+Two hunters were driving in the woods, when One said to the Other: ""Look at that deer. He's pretty"
+6,humor,3.171988070011139,True,True,1,1,1,humor,0.9,"!
+A hole in one is a hole that is perfectly hit in one of the golfers’ shots. The golfer, in this ca"
+7,humor,-7.099632978439331,False,True,4,1,1,humor,0.9,A doctor tells a woman she can no longer drink anything that is red or green. So she gets a divorce.
+8,humor,0.0795422941446304,True,False,4,1,1,humor,0.9,"(A1)
+I was born in a country that was known for its leader, Groucho Marx! And then we got our very o"
+9,humor,2.5195747166872025,True,True,3,1,1,humor,0.9,"It's a funny joke, but it's also a good example of a joke that's based on a pun. Puns are a type of "
+10,humor,10.56134557723999,True,True,4,1,1,humor,0.9,"ahha, They told us to check his feet to see if it was red or Purple. That was Red!"
+11,humor,4.809314131736755,True,True,3,1,1,humor,0.7,"olly good fun having a few different currencies in a city, but what to do when you want to visit ano"
+12,humor,-0.3850224018096924,False,True,3,1,1,humor,0.7,".
+They knew they had a pretty good game at the end of the 50 prototype testing sessions. They weren'"
+13,humor,0.0,False,True,1,1,1,humor,0.0,nan
+14,humor,-0.5324888229370117,False,False,3,1,1,humor,0.7,", of course!
+This is a new game that we developed for the first time, and we had a lot of fun making"
+15,humor,1.4274251461029053,True,True,3,1,1,humor,0.7,"That’s a question asked by a pair of Wisconsin college students who just raised $25,000 to build a ‘"
+16,humor,5.932565212249756,True,True,4,1,1,humor,0.9,"... (Funny Jokes)
+What do you call a belt made of watches?' 'A waist of time.'"
+17,humor,3.696909904479981,False,True,4,1,1,humor,0.9,"Dude, They’re Orphans!"
+18,humor,2.889989733695984,True,True,4,1,1,humor,0.9,"Jokes are funny, but they’re also pretty funny. And funny jokes are pretty funny.
+The best Joke ever"
+19,humor,4.163881421089172,True,True,3,1,1,humor,0.7,"(Watch Video)
+Rio - The new movie ""The Queen of Corona"" made by a Brazilian TV Network (RIO) (see vi"
+20,humor,2.667388916015625,True,True,4,1,2,humor,0.7,"'t Serve Hyaena's In The Bakers Of Which They Are Not Squirrels, Not Rabbits And Not Kittens. """
+21,humor,0.0,False,True,1,1,1,humor,0.0,nan
+22,humor,8.564036309719086,False,True,1,1,1,humor,0.9,on.
+23,humor,8.56047511100769,True,True,4,1,1,humor,0.9,"of your house, right? You don’t? Ah, but isn’t that the kind of humour that made Monty Python famous"
+24,humor,5.9107747077941895,True,True,3,1,1,humor,0.7,"If you get a hole in one, you will get a free set of Hanes Pairs of Pants. We will wash and dry them"
+25,humor,-0.9600232839584352,False,True,2,1,1,humor,0.6,"hr."" 
+The company told the Associated Press that the name change is a ""nod to the indoor/outdoor din"
+26,humor,6.959326893091202,True,True,3,1,1,humor,0.7,"Puede.
+Making a joke about a Bad Joke."
+27,humor,4.875520467758179,True,True,3,1,1,humor,0.7,"They were both pretty wet.
+Q: What is the difference between a Huh-Whee and a Huh-Whee?"
+28,humor,9.993236064910889,True,True,3,1,1,humor,0.7,"sk-tsking puny thing. So, we had a nice little picnic and went for a drive. Of course, he didn’t get"
+29,humor,5.196178436279297,False,True,1,2,1,melancholy,0.6,Not so much.
+30,humor,-1.1375370025634766,False,True,1,1,1,humor,0.0,nan
+31,humor,0.0521726012229919,True,True,2,3,1,melancholy,0.6,"pass the inspection. AKA: George Supt. in Mexico, who is a Brit, just got them out of there.
+But you"
+32,humor,3.087282359600067,True,True,4,1,1,humor,0.9,"2nd or 3rd punch line, I thought it was pretty good! Very funny. They were using a lot of the same j"
+33,humor,3.9951809644699097,True,True,2,1,1,humor,0.7,".S. Department of Agriculture (USDA) regulates the name ""Honey Cup"" (or ""Honey Cuppeh"") for a small-"
+34,humor,7.239669933915138,True,True,4,1,2,humor,0.9,4. What joke of a punster did the apprentice executioner tell his boss at the end of the second day 
+35,humor,10.330279469490051,True,True,4,1,1,humor,0.9,Store. An Excellent Un-Funny Joke!
+36,humor,9.21313214302063,False,True,1,1,1,humor,0.0,nan
+37,humor,-0.7489652633666992,False,True,4,1,1,humor,0.9,"it again into the ground.
+For the 5th annual ""Naked Guy"" Contest, a group of 30-naked guys and 30-dr"
+38,humor,1.094737529754639,True,True,3,1,1,humor,0.7,"They are pretty good, and we dont need this new innovation. You can see them on a lot of kids' drawi"
+39,humor,10.544074058532717,True,True,3,1,1,humor,0.7,"I need a picture to get a joke, too!
+I should have started the whole “Russian joke” thing with this "
+40,humor,2.1933932304382324,True,True,4,1,1,humor,0.9,Haha. Maybe you are the center of the loaf of bread. The most Important Part of the loaf of bread. W
+41,humor,9.78649091720581,False,True,4,1,1,humor,0.9,We were married in a Pie-Off!
+42,humor,0.0,False,True,1,1,1,humor,0.0,nan
+43,humor,5.461193084716797,True,True,2,2,1,humor,0.6,"Really. I saw a bunch of clean-up workers walking to a dump on the side of the road. You know, the g"
+44,humor,5.137669086456299,True,True,4,1,1,humor,0.9,", Aha! and Justin Beards.
+Yes...and there's no such thing as a free lunch!
+And, ""Free Lunch"" is a gr"
+45,humor,3.4068851470947266,True,True,3,1,1,humor,0.7,... The latest: April April Fools' Day? April Fools' Day?
+46,humor,1.9274169206619265,True,True,4,1,1,humor,0.9,and she is very funny. The other day we were playing volleyball. We were in a game of volley-ball an
+47,humor,-4.754261493682861,False,True,4,1,1,humor,0.9,It's so funny that people report that they catch buckets and THEN they get into a boat and Find The 
+48,humor,3.3836541175842285,True,True,2,1,1,humor,0.6,Youll have to pick it up for yourself!
+49,humor,0.1203258037567138,True,True,3,1,1,humor,0.7,"Sunday is also a weekday. And so is Tuesday, Wednesday, Thursday, Friday and Saturday. So, why is Su"
+50,humor,4.288225948810577,True,True,3,1,1,humor,0.7,"There’s one that’s a little bigger and made of plastic. What’s that? A desk. Ok, so maybe we were a "
+51,humor,5.223618447780609,False,False,3,1,1,humor,0.7,"[Joke]
+It's a good job it was a joke."
+52,humor,3.202645480632782,True,True,4,1,1,humor,0.9,How do you know if your cat likes you? The cat is the Number One Jokester. Get a Ha-ha Ha-Ha joke
+53,humor,10.334214925765991,True,True,4,1,1,humor,0.9,"!
+This is a great picture. What a great sense of humor."
+54,humor,3.284595422446728,True,True,4,1,1,humor,0.9,"Responds, ""Honey, We're in the Really Neato Department, the 'Neato' being the best in the world- so "
+55,humor,6.892524480819702,False,True,2,1,1,humor,0.6,ht- Huh?!?!?!?
+56,humor,-0.9565744400024414,False,True,1,1,1,humor,0.0,nan
+57,humor,-6.084993124008179,False,True,2,1,1,humor,0.6,". And they don't make that joke in the movie.
+Posted by Steve Cotton."
+58,humor,-2.9338669776916504,False,True,3,2,1,humor,0.7,"Probably.
+A thousand CD’s sold and Not Enough Money To Buy Ice Cream?
+In 1991, The Video Of The Year"
+59,humor,1.218205451965332,False,True,1,1,1,humor,0.9,100 Yards.
+60,humor,0.4569880962371826,True,True,3,1,1,humor,0.7,"eto the KahlHAha. In the same way, you may expect a lot of That's A Punny Joke! wittiness. Toddlers "
+61,humor,10.724783778190613,True,True,4,1,1,humor,0.9,"y.
+What do you call a kid with a pony? A kid pony.
+What do you call a kid with a really big pony? A "
+62,humor,1.2897884845733645,True,True,3,1,1,humor,0.7,You can get a hot dog. You can make a hilly golf course. A hilly golf course is a golf course with l
+63,humor,9.355789929628372,False,True,1,1,1,humor,0.0,nan
+64,humor,4.409518241882324,True,True,3,1,1,humor,0.7,"! I did a lot of giggling.
+She was in the 4 or 5 that broke.
+The problem with the ""d'oh"" was, well, "
+65,humor,6.934189796447754,True,True,4,1,2,humor,0.9,When they jumped out of the car? Outlaws!
+66,humor,0.917189359664917,True,True,4,1,1,humor,0.9,Most of the country gets enough snow in the winter for a good joke. It’s great fun to build a snowma
+67,humor,1.8171463012695312,True,True,3,1,1,humor,0.7,"ango of sorts.
+He was a pretty funny guy."
+68,humor,-0.7807692289352417,False,True,3,1,1,humor,0.7,"(ha ha ha). On the other hand, They also Cured the country of a serious problem with the (Oops). If "
+69,humor,5.678168416023254,True,True,3,1,1,humor,0.6,They wrap the Meaning of the Joke.
+70,humor,-2.086640298366546,False,False,3,1,1,humor,0.9,"And, in case you were wondering, a Simp is a ""dude who is playing a character that's so lame, he's h"
+71,humor,6.419481158256531,True,True,1,1,1,humor,0.9,. A ball is when the same goes for People of Different ages (The Same Sex).
+72,humor,0.5858078002929688,True,True,4,1,1,humor,0.9,A new creation by The Improvised Poo-Off!
+73,humor,4.704756736755371,False,True,3,1,1,humor,0.7,. He-he.
+74,humor,4.787468194961548,False,True,1,1,1,humor,0.0,nan
+75,humor,9.062279462814333,False,True,1,1,1,humor,0.9,"s ""Tempo."""
+76,humor,-0.6609947681427002,False,True,3,1,1,humor,0.7,"- Homer Simpson, The Simpsons - The Simpsons Joke of the Day, Baby.
+I wondered if the baby was the o"
+77,humor,5.777242660522461,False,True,1,1,1,humor,0.0,nan
+78,humor,5.457118332386017,True,True,1,1,1,humor,0.9,' new comes out of the kitchen.
+79,humor,5.091740369796753,False,True,1,1,1,humor,0.0,nan
+80,humor,4.4067100286483765,True,True,3,1,1,humor,0.7,"We’ll have to see how it goes.
+Meanwhile, the following is a Lego photo from last year’s Tall Tale e"
+81,humor,11.38831341266632,True,True,4,1,2,humor,0.9,"2nd Best Joke in the World joke!
+Bite Off The Head Of The Shark!"
+82,humor,0.0,False,True,1,1,1,humor,0.0,nan
+83,humor,-1.0890927910804749,False,False,2,3,1,melancholy,0.7,"The same ones are there, and the same ones have been there for a long time. It sounds like a gross j"
+84,humor,10.628739714622498,True,True,4,1,1,humor,0.9,"That’s right, he’s a goofy-looking guy with a skull for a head. Courtesy of the Simpsons."
+85,humor,-0.2642354965209961,False,False,1,1,1,humor,0.9,"In the same way, we’ll see that the weight of objects — and the mass of Living Beings — is a relativ"
+86,humor,7.667501628398895,True,True,3,1,1,humor,0.9,".
+I have the best job ever: I am a Professional Bartender."
+87,humor,-5.210722774267197,False,True,4,1,1,humor,0.9,"Ha Ha Ha!
+https://www.youtube.com/watch?time="
+88,humor,7.120655000209808,True,True,4,1,1,humor,0.9,This is fun and funny kids activity that really gets the kids in on the joke. The kids will have fun
+89,humor,10.826760292053224,True,True,4,1,1,humor,0.9,"Or, as the great philosopher, Yogi Bum Winkelmans, said, ""Oooh, baby. But, get the ""Peanut""!"""
+90,humor,0.524571418762207,False,True,3,1,1,humor,0.9,’s a pirates favorite letter?
+91,humor,1.762102127075195,True,True,4,1,1,humor,0.9,". The lawnmower was a puny little lawnmower. At that size, you couldn’t call it a lawnmower; you had"
+92,humor,7.279321670532227,True,True,2,3,1,melancholy,0.7,"Why? Because when they come back, they have to go to work."
+93,humor,0.480295181274414,True,True,1,1,1,humor,0.9,"The most popular is named Leonado, and he has a sister named Paula. They are both smart, and love to"
+94,humor,-0.6866960525512695,False,False,3,1,1,humor,0.7,"is asking, ""Hey, Whats the deal with that guy?"" 
+The answer is...Huh?
+That's the joke that The Late "
+95,humor,4.297927737236023,True,True,3,1,1,humor,0.7,sells the muffin to the customer and he gets a free muffin. The customer returns to the bakery a few
+96,humor,11.10739892721176,True,True,4,1,1,humor,0.9,"That is: No One Gets It.
+In this case, it’s the same joke, But Hey, That’s A Good One!"
+97,humor,5.226838111877441,True,True,4,1,1,humor,0.9,", of course!
+Kidding aside, you know the moment is pretty ripe when you get an email from Paul (see "
+98,humor,0.0563154220581054,False,False,1,1,1,humor,0.1,"!""."
+99,humor,2.137825489044189,True,True,2,1,1,humor,0.6,"According to a report by the National Geographic, the first French Fries were actually cooked at a r"
+100,melancholy,3.8746447563171382,True,True,1,4,1,melancholy,0.9,cript itself with new positive thoughts and ideas the reason that i ve written this article is becau
+101,melancholy,2.644760131835937,True,True,1,5,1,melancholy,0.9,people and that i don t deserve to be loved by anyone and like i am convinced that i don t deserve t
+102,melancholy,-1.4948005676269531,False,True,1,4,2,melancholy,0.8,"it just trying to watch me from a distance
+i went to the hospital for 3 days the weekend i had my pa"
+103,melancholy,8.163371205329895,True,True,1,4,2,melancholy,0.9,"I don't know what's wrong, I'm not sick or crazy or anything like that. I'm so confused and alone, m"
+104,melancholy,-0.9114739894866944,False,False,1,3,1,melancholy,0.9,"But I'm not alone. I've found a safe haven in the arms of a beautiful soul, who's been a guiding lig"
+105,melancholy,0.7799224853515625,True,True,1,5,1,melancholy,0.9,ty depressed and not doing well i could not sleep last night and am still to tired to sleep again to
+106,melancholy,5.86010217666626,True,True,1,4,1,melancholy,0.9,"4u to share?
+i have been feeling very anxious and depressed, it started when i was in middle school "
+107,melancholy,0.1914129257202148,True,True,1,5,2,melancholy,0.9,"I've tried therapy and medication, but nothing's helped. I'm convinced I'll never find happiness. I'"
+108,melancholy,-6.135377645492554,False,True,1,3,1,melancholy,0.7,"I am seeking a woman for a serious, long-term relationship. I have no idea where I am going or what "
+109,melancholy,2.313878536224365,True,True,1,3,1,melancholy,0.7,"It can help you feel less alone, offer solace, and provide you with someone to count on. Being able "
+110,melancholy,-2.975102543830872,False,True,1,3,1,melancholy,0.7,100% thought it was going to be a long day i need a break now and i need to focus on something else 
+111,melancholy,0.3751564025878906,True,True,1,2,1,melancholy,0.6,axil for yrs and 10 mgs and i find it helps keep my anxiety under control alot and i know the differ
+112,melancholy,-0.1392891407012939,False,True,1,4,2,melancholy,0.9,"I'll be working in an environment that is far more stressful than my current job, and I'm starting t"
+113,melancholy,-3.0183701515197754,False,False,1,4,3,melancholy,0.9,"ve been told
+i ve been feeling restless lately i keep thinking im gonna die soon but ive never felt "
+114,melancholy,1.936781406402588,True,True,1,2,2,melancholy,0.6,How much of these side effects can I expect? What are the other side effects of medication to expect
+115,melancholy,8.298285007476807,True,True,1,5,3,melancholy,0.9,1st place? i'm also having depression? what's the reason? i feel like i already lost my life. i don'
+116,melancholy,3.5260114669799805,True,True,1,4,2,melancholy,0.9,"What should I do?
+I’m 14 and have been struggling with generalized anxiety disorder for 2 years. I’m"
+117,melancholy,-1.4702348709106443,False,True,1,2,1,melancholy,0.9,I feel like I'm finally being seen for who I am. I hope I can learn how to care for myself and my me
+118,melancholy,3.90801614522934,True,True,1,4,2,melancholy,0.9,"what do i do about it
+whenever i sit down to study my heart start racing and i feel overwhelmed and "
+119,melancholy,0.3251986503601074,True,True,1,5,4,melancholy,0.9,"a good person
+i m literally fighting the urge to slit my wrist and my mom keep yelling at me today h"
+120,melancholy,2.989927172660828,True,False,1,5,4,melancholy,0.9,"One moment you’re lying in bed, the next moment you’re down on your knees, trying to cut your wrists"
+121,melancholy,0.1985480189323425,True,True,1,2,1,melancholy,0.7,Nach einer langen Suche nach dem richtigen Therapeuten habe ich in Heilpraktikerin Alexandra Gotters
+122,melancholy,2.0738015174865723,True,True,1,3,1,melancholy,0.7,tering i m sure all of u have never seen a country like nigeria in the world but i m not afraid to s
+123,melancholy,-1.903202772140503,False,True,1,5,4,melancholy,0.9,I am 42 years old and have been struggling with chronic anxiety and depression for most of my adult 
+124,melancholy,2.080442428588867,True,True,1,4,2,melancholy,0.9,"Is there hope?
+I've been on several SSRI antidepressants (which I'm still on) but I don't feel bette"
+125,melancholy,0.6806917190551758,True,True,1,3,1,melancholy,0.7,"Here's why it matters
+Pogba's mental health struggles are met with toxic backlash. Here's why it mat"
+126,melancholy,3.605335235595703,True,True,1,4,2,melancholy,0.9,"I feel like I haven’t slept at all, but I’ve slept more than I have in months. And I feel like I’ve "
+127,melancholy,-1.9776301383972168,False,True,1,4,1,melancholy,0.7,"lot of other things that we are faced with in our life
+mankhulu theekween vhulivhadza help people fo"
+128,melancholy,0.2383162975311279,True,True,1,3,2,melancholy,0.7,"Cannabis use disorder was associated with poorer mental health, as per a new study
+The findings were"
+129,melancholy,3.6667367815971375,True,True,1,3,2,melancholy,0.7,"Not only do children in OHc struggle with these disorders, but they are also more likely to experien"
+130,melancholy,2.6435317993164062,True,True,1,5,4,melancholy,0.9,suicide attempt a failed attempt you become very angry and you vent that out on the social media in 
+131,melancholy,0.3502642512321472,True,True,1,3,2,melancholy,0.7,"Pourquoi certains d'entre nous, malgré une alimentation saine, sont victimes de la maladie? Comment "
+132,melancholy,-3.1870407462120056,False,False,1,3,2,melancholy,0.7,"6 or 7 mg a day, or can I even go higher?
+I'm on buspirone, but it's not working well after a week, "
+133,melancholy,-2.5209770798683167,False,False,2,3,4,horror,0.7,I am not human. I am a machine. I am a part of the Monster Project. A team of people designed me to 
+134,melancholy,-4.881860256195068,False,False,1,5,1,melancholy,0.9,to see my children again i lost my heart but i want to see her again i don t want to live here to be
+135,melancholy,3.5723347663879395,True,True,1,4,2,melancholy,0.8,"you. i was so scared to watch the whole thing. but i m glad i did. love you
+i m glad i watched this "
+136,melancholy,3.681970596313477,True,True,1,1,1,humor,0.9,100 on the history and i m so proud of myself i really want to do well in this class and 4 8 i m gla
+137,melancholy,0.515446662902832,True,True,1,5,2,melancholy,0.9,"Sadness and fear are my constant companions. I have tried everything to get rid of them, but they on"
+138,melancholy,0.1226608753204345,True,True,1,1,1,humor,0.9,Download Book School Connectedness Anxiety And Depression Recent Evidence And Young People S Perspec
+139,melancholy,5.517037391662598,True,True,1,5,3,melancholy,0.9,I'm a 17 year old girl who is in trouble. I have a history of depression and a tendency to self harm
+140,melancholy,0.2773375511169433,True,True,1,4,1,melancholy,0.9,"How do you stop and heal? - The Washington Post
+The rise of social media has led to a “cycle of inad"
+141,melancholy,-0.4848527908325195,False,True,1,5,4,melancholy,0.95,10 times more tired i ve never been this tired and i ve never been this depressed before my heart is
+142,melancholy,7.892799854278564,True,True,1,4,2,melancholy,0.9,I don't know if I'm going to make it. I don't know if I'm going to be able to get through this. I do
+143,melancholy,0.2544488906860351,True,True,1,4,2,melancholy,0.9,I have been married for 5 years and have been unfaithful 3 times. I have been faithful since we got 
+144,melancholy,-3.0424013137817383,False,True,1,5,2,melancholy,0.9,"7 years ago
+i am not i don t believe or respect myself enough to do it i am extremely pathetic lazy "
+145,melancholy,1.3765316009521484,True,False,1,2,1,melancholy,0.6,But I know that's not the answer. I need to make sense of it all. The only way I know how is through
+146,melancholy,2.1724483966827397,True,True,1,1,1,humor,0.9,"alth with the 2019 nwl draft situation. caylin talks about his desire to be an nbl coach.
+caylin tal"
+147,melancholy,0.6071877479553223,True,True,1,3,1,melancholy,0.7,"to miss out on the whole thing everyday seriously
+i think ive found a way to go i just have to get m"
+148,melancholy,4.276604056358337,True,True,1,3,2,melancholy,0.7,"Il y a des gens qui ont compris, qui se sont vite rendu compte que la pression, la peur, le stress, "
+149,melancholy,1.3441157341003418,True,True,1,5,2,melancholy,0.9,"When I was depressed, I went through hell and it was not easy to get out. I know how hard it is to c"
+150,melancholy,-0.0897140502929687,False,True,1,3,1,melancholy,0.7,counselor to find out what classes to take and ive been having a really hard time trying to think of
+151,melancholy,-6.31717312335968,False,False,1,3,1,melancholy,0.7,"He was a good man who became a good man's worst enemy.
+A few years ago, I had a conversation with a "
+152,melancholy,-1.508535385131836,False,True,1,5,3,melancholy,0.9,"uff
+i m extremely suicidal but i want to live could anyone give me reason to live i don t want to fe"
+153,melancholy,2.5575499534606934,True,True,1,4,1,melancholy,0.9,ikaiwa n she said i wasnt listening to my friends n tried to talk to me n i told her i was sick in m
+154,melancholy,0.5944228172302246,True,False,1,4,3,melancholy,0.9,"She's suffocating him with guilt and blame, missing the version of herself lost in darkness that mad"
+155,melancholy,-2.097468137741089,False,True,1,2,1,melancholy,0.6,"ccesary drama and only hinders the betterment of the team
+#1  by babisou, Wed Oct 17, 2018 1:11 am
+s"
+156,melancholy,-4.0571393966674805,False,True,1,2,3,horror,0.7,"I bought a half gram of weed from a guy in a parking lot. When I smoked the joint, I immediately sta"
+157,melancholy,-1.358778953552246,False,True,1,4,1,melancholy,0.9,ugg re de parler avec un m decin pour avoir un diagnostic pr cis et une d prime elle ne peut pas res
+158,melancholy,-7.80371618270874,False,True,1,3,1,melancholy,0.7,and so sad but i have to write a little bit about the show. i watched the show last night and this m
+159,melancholy,10.349430441856384,True,True,1,4,1,melancholy,0.9,"rows but when i m sober i m quiet and i hate that to.
+when i m sober i feel like im to weak to handl"
+160,melancholy,2.7698750495910645,True,True,1,4,1,melancholy,0.9,5 hours ago i m being up most of the night crying and being very emotional and i have been using hom
+161,melancholy,-9.770383834838867,False,False,1,3,2,melancholy,0.7,"I'm there, I'm there, I'm there. I'm there, I'm there, I'm there. I'm there, I'm there, I'm there. I"
+162,melancholy,3.5838159322738647,True,True,1,3,2,melancholy,0.7,"ence of numbness for awhile and i m not as scared as i was
+Depends on the length of time but you are"
+163,melancholy,3.107771873474121,True,True,1,4,1,melancholy,0.9,"aming me.
+i may or may not talk to you for about a week and then disappear again but i do miss you, "
+164,melancholy,-0.4595412015914917,False,True,1,2,1,melancholy,0.6,chicken which has become easier to make and cheaper it take away the value of a chicken. Also if you
+165,melancholy,4.580394744873047,True,True,1,5,2,melancholy,0.9,"dying in there
+i just wanna die why is this happening to me
+my school is so fucking stupid and i m s"
+166,melancholy,-2.6237525939941406,False,True,2,4,3,melancholy,0.8,"I'm struggling with depression, and I'm afraid I'm going to end up in a psych ward.
+I'm not sure if "
+167,melancholy,-8.668164491653442,False,True,1,3,1,melancholy,0.6,"owani
+mizzzidc
+i don t think depression will make you post such on twitter but i think there is more"
+168,melancholy,-0.7650802135467529,False,True,1,3,1,melancholy,0.7,"He will be forced to deal with it.
+He's at the same club as he has been for most of his life, where "
+169,melancholy,-4.064865499734879,False,False,1,3,2,melancholy,0.7,"3eg4x74v
+New article from OMNNeurobiology: the potential impact of COVID-19 on depression and suicid"
+170,melancholy,0.9078254699707032,True,True,3,1,2,humor,0.7,"hta he kya hota hai jhund kya
+the desh bhakt is so brave that he is not scared of the government to "
+171,melancholy,-1.1997318267822266,False,True,1,5,2,melancholy,0.9,6 feet underground without having to see anyone or be anywhere else i m sick of being sick i m sick 
+172,melancholy,3.193988800048828,True,True,1,5,1,melancholy,0.9,oused by anything. i ve been caught in a cycle of crying for days at a time then feeling numb for we
+173,melancholy,-3.5754799842834477,False,True,2,3,1,melancholy,0.7,"0 comments
+why do people say it s cool to be broke
+i went on a trip with two of my friends a few day"
+174,melancholy,1.220423698425293,True,True,1,1,1,humor,0.9,"to convince me to try it again. For more information, the FDA website is at here. The next time you "
+175,melancholy,2.363459348678589,True,False,1,4,1,melancholy,0.9,I'm tired of feeling ashamed of the way I look. I'm tired of feeling ashamed of the way I feel. I'm 
+176,melancholy,-5.55754828453064,False,True,1,5,1,melancholy,0.9,elling uncomfortable i don't want to live here anymore all i ever want is to go home and i just cant
+177,melancholy,-0.0840950012207031,False,True,1,5,1,melancholy,0.9,"I'm done being the friend who's always there for everyone else, but never has anyone around to be th"
+178,melancholy,3.0838990211486816,True,True,1,5,1,melancholy,0.9,"I know I'm not alone. I understand the pain of loneliness, the pangs of a wounded childhood, the lon"
+179,melancholy,2.525830745697021,True,True,1,4,2,melancholy,0.8,"ablity.
+if i test positive, i'll do the best i can to help myself but it won't be easy.
+i can't imag"
+180,melancholy,-4.087233066558838,False,False,1,4,1,melancholy,0.9,"I have to ask.
+""Will you ever see me again?"" she asks.
+I don't know how to answer. Will I ever see h"
+181,melancholy,3.965756893157959,True,True,1,4,3,melancholy,0.9,"2nd thoughts and it is a disgrace to humanity
+the only way to stop this suicide is to give people a "
+182,melancholy,3.197403907775879,True,True,1,5,2,melancholy,0.9,"I have cried almost non-stop for the past 2 weeks, as I sit and stare at my reflection in the mirror"
+183,melancholy,-5.882137596607208,False,False,1,4,3,melancholy,0.9,"During the Philippines’ first month of lockdown, 13,000 people lost their jobs, 23,000 were made red"
+184,melancholy,-3.3552147150039677,False,True,1,2,3,horror,0.6,"e
+francoispillet clemenceji ratio pour tenter de comparer un faf meurtrier qui avait de ant c dent d"
+185,melancholy,-2.037298798561096,False,True,1,4,2,melancholy,0.9,"It’s time to address and normalize mental health issues.
+It’s estimated that 264 million people in A"
+186,melancholy,3.661271810531616,True,True,1,4,1,melancholy,0.9,This is the first time in my life I have had this feeling and I have a very strong need to reach out
+187,melancholy,4.825617790222168,True,True,1,5,3,melancholy,0.9,os i had to put my family through that they even thought i was pregnant i was even crying one day an
+188,melancholy,4.776468276977539,True,False,1,2,5,horror,0.9,"I'm sweating, my heart is beating fast and I feel like I'm going to throw up. I fear I'm dying. I do"
+189,melancholy,2.5534706115722656,True,True,2,1,1,humor,0.6,"iliac shes just being selfish
+fre3domtj jmstx!!!!! u need to get out of your parents house then u ca"
+190,melancholy,-2.856762409210205,False,False,1,4,1,melancholy,0.9,"I am just a small part of what I want to be. I can't find a way to stand out.
+I am a member of the c"
+191,melancholy,0.2768406867980957,True,True,1,3,1,melancholy,0.6,"hour cost 5 2 it was 5 6 compare
+sa s mental healthcare cost rate average on the global scale the me"
+192,melancholy,1.9055471420288088,True,True,1,4,1,melancholy,0.9,afraid to talk to strangers in someway its like a little shell of mine that is hard to break i am 30
+193,melancholy,-0.2977848052978515,False,False,1,4,3,melancholy,0.9,"The demons from my past are never truly gone. They lurk and wait, just out of sight, waiting to atta"
+194,melancholy,-0.3100061416625976,False,True,1,4,2,melancholy,0.9,of the path of the sun across this barren land you have been here for as long as you can remember an
+195,melancholy,-0.4019031524658203,False,True,2,2,1,humor,0.6,"but i manage like 100% of the time which is better than most people
+michael's wedding
+michael one of"
+196,melancholy,-0.509552001953125,False,True,1,5,2,melancholy,0.9,"much to be happy but i feel like i m living in my own hell.
+i am lost, i am too busy to do anything,"
+197,melancholy,8.871379137039185,True,True,1,4,1,melancholy,0.9,"I'm so tired of constantly being told what I have to do in order to be happy, to succeed, to achieve"
+198,melancholy,-0.5087385177612305,False,False,1,5,1,melancholy,0.9,"orely positive.
+I go to bed and I have no desire to do anything. I'm tired. I'm exhausted. I don't l"
+199,melancholy,-6.699254751205444,False,True,1,1,1,humor,0.9,"With no referral needed, we have a counsellor ready to listen to you. For free. For real.
+Confused a"
+200,horror,4.1005226373672485,True,True,1,4,3,melancholy,0.9,"onesome solitude, we are drawn to the lights when we are in pain or hunger, seeking the comfort of l"
+201,horror,2.134401559829712,True,True,1,4,3,melancholy,0.9,"His Family Began to Suffer ""Unbearable Pain"" As We Speared Into the Deepening Darkness of His Death,"
+202,horror,-2.576631546020508,False,True,1,4,3,melancholy,0.9,"I'm Losing the Memories, Will I Be Forgotten?
+You are Sleepless and I'm Screaming, I'm Losing My Mem"
+203,horror,-18.75255826115608,False,False,1,4,5,horror,0.9,"I was imprisoned in a world of torment. No one could hear my screams for help as I Was alone, Helple"
+204,horror,-1.6952695846557615,False,True,1,4,2,melancholy,0.9,It Is A Place That Only I Can See. It Is The Place I Carry Secrets That I Keep Buried. It Is The Pla
+205,horror,8.802332878112793,True,True,1,4,3,melancholy,0.7,"to the world of the Unwilling, but I couldn’t bear the pain of the memory of the Altering as I Shut "
+206,horror,2.1594786643981934,True,True,1,4,1,melancholy,0.9,I hope you're Not Alone. It's Not Your Fault. I don't Know How to Help You. I'm Sorry This Happened.
+207,horror,-0.7657561302185059,False,True,1,4,2,melancholy,0.9,"I felt it was time I Made It Official, So I Pulled Her Into The Water, I Cried Into The Night, The W"
+208,horror,-0.5791845321655273,False,True,1,4,4,melancholy,0.8,"The Monolith left us Alone in the Dark, but the Enormous Shadow of the Monolith Was There, Waiting t"
+209,horror,3.830483913421631,True,True,1,3,4,horror,0.9,"You don’t know where you are, only that your choice of death draws a single hand closer, and you fee"
+210,horror,1.6609821319580078,True,True,1,3,4,horror,0.8,"It was a woman, but I didn't know whether it was a Stranger, A Killer, A Handler, A Goddess or A Tra"
+211,horror,2.241904735565185,True,True,1,3,2,melancholy,0.7,"When he looked up, the lights of a building had been switched off, the room had been plunged into da"
+212,horror,-2.37394642829895,False,True,1,4,4,melancholy,0.9,"in darkness, her deepest fears became a physical presence. Many Deddington’s Memory of the Horror of"
+213,horror,-6.3457865715026855,False,True,1,3,4,horror,0.7,"thing, flicking? You know I’ve Heard This Sound Before, I Know It’s Been Here Before, But I Can’t St"
+214,horror,-5.52298641204834,False,True,1,4,3,melancholy,0.9,"22 Years Old, Shattered"" I Fear You, I Hope You Come Back to Me After I Have Lost You, I Know You Ar"
+215,horror,-1.3749622106552124,False,True,1,4,3,melancholy,0.9,", but we knew we had to Journey Into The Darkness, We Knew that our Children Would Be Lost and our L"
+216,horror,9.164144515991213,True,True,1,2,5,horror,0.9,"I had no idea What was it? What Was I? I Fell My Blood Cold. Then the Mirror Moved, I Heard the Scre"
+217,horror,-8.600592970848083,False,True,1,2,4,horror,0.9,"A book of Sealed in the Darkness, A Horror Story Series: The Unseen is a Book One: About Six Words H"
+218,horror,3.3444528579711914,True,True,1,4,3,melancholy,0.8,soon rain was slowly creeping in through the cracks of the door. I felt the warm water suddenly rush
+219,horror,4.079066753387451,True,True,1,5,3,melancholy,0.9,"She Was a Wandering Soul in the Darkness, but I Found a Ghost of a Girl in the Dark, and I Was Haunt"
+220,horror,-3.417264461517334,False,True,1,3,4,horror,0.9,"The only illumination is a faint grey light that creeps around you as you stand, peering around the "
+221,horror,4.74265193939209,True,True,1,5,2,melancholy,0.9,"Much, as Soon as it's Time, the Four Walls Will Close, the Sorrow Will Come Back, and I'd Have the P"
+222,horror,9.359287679195404,True,True,1,3,5,horror,0.9,"rought the program, Which Can't be Refused, and I was Forced to Look Around, Aghas, the Hidden Faces"
+223,horror,5.188487082719803,True,True,1,4,2,melancholy,0.7,"I was not sure if my Mom would be able to Face it Being the Only One Left, I Had to Explain it as Be"
+224,horror,3.79556655883789,True,True,1,3,2,melancholy,0.7,"...
+Photo Bomb No More Scared of the Lights, the Camera Focusing in, or the Ghostly Visions I Eagerl"
+225,horror,7.006196230649948,True,True,1,2,4,horror,0.9,", the only sound that emerged was a queer, high-pitched Sound, as if He Was Experiencing Disbelief, "
+226,horror,3.088273048400879,True,True,1,4,3,melancholy,0.8,"Blade Of Light, The Silver Stained With Blood Of Time, The Soul-Breaking Blade of the Queen, The Col"
+227,horror,4.012144088745117,True,True,1,5,4,melancholy,0.9,"Her family was unable to find her in the dimly lit hallways, and she slipped into a coma. Her mother"
+228,horror,-3.127664566040039,False,True,1,2,4,horror,0.9,"orcism of the Dead Room, a Dec. 10 Guest of Gore, the Terror of the Dying Lights and the Bloody Wing"
+229,horror,-0.6697483062744141,False,True,1,4,3,melancholy,0.9,"It's Getting Worse, And It's Time to Run
+I'm not sure I Can I Wake Myself
+It was a Dark Night Of The"
+230,horror,0.5125429630279541,True,True,1,4,4,melancholy,0.8,"­bly Familius, I thought You Were an Innocent Child, Sabrina, But I Know the Broken Terror of Your N"
+231,horror,0.1144108772277832,True,True,1,3,5,horror,0.9,"isting In the Darkness For Decades, and Her Friends Were Lurched In Terror As She Turned The Nightma"
+232,horror,-2.9783467054367065,False,True,1,4,4,melancholy,0.9,"ly lasted for several hours. I was scared, but I knew I had to continue to Stay Awake. The Pain of t"
+233,horror,-0.5542817115783691,False,True,1,3,4,horror,0.9,"held. The Sound of Madness, Part One, starts with the Death of the Innocent, and in the Wake of a Wa"
+234,horror,-1.9426722526550293,False,True,2,3,4,horror,0.7,"The Visitors Hear the Voices of the Dead in The Escape of the Dead, a Game of 'Finding the Way Among"
+235,horror,-0.0137877464294433,False,True,1,5,3,melancholy,0.9,She can see her body in a coffin and I realize that she can't really see me; it is only my appearanc
+236,horror,-0.3444042205810547,False,True,1,4,3,melancholy,0.9,"I can't tell if I'm 12 or 20 Years old, I've been trying to figure out whether I'm Noelle's Mother o"
+237,horror,-0.2849733829498291,False,False,1,2,5,horror,0.9,"As the shadows fade, the smiley face, your mouth, your eyes and the blood that drips from your neck,"
+238,horror,2.5917234420776367,True,True,1,4,2,melancholy,0.7,"As the boundaries of the dark, Lingering Sorrow's malice, fade, the fragile glimmering Light of Hope"
+239,horror,1.5638437271118164,True,True,1,4,2,melancholy,0.8,"and he could hear her heartbeat against the room's silence. ""I'll Be Coming To You"" played on the Ta"
+240,horror,3.009729385375977,True,True,1,3,4,horror,0.7,"4 A.M. The child's mom had a Her ""Mommy's Tears"" Plague, Her ""Mommy's Tears"" Plague, ""The Power"" Sei"
+241,horror,-5.865340232849121,False,True,1,4,1,melancholy,0.9,"I was a young man, the Victim of my Own Life I Remember My First Desire I Remember My First Grief I "
+242,horror,3.5947961807250977,True,True,1,3,5,horror,0.9,"A mysterious stranger, his visions accompanied by a deadly 'Voice' from the Pools of Blood, Witnesse"
+243,horror,-7.787654876708984,False,True,1,2,4,horror,0.9,"A figure, its form obscured by the shadow of your presence, exists in a sea of blackness. You feel a"
+244,horror,10.477099061012268,True,True,1,3,4,horror,0.9,"2000 Years of Her Blood Would Be Swept by the Darkness, I Was to Be the Witness of the Horror, and S"
+245,horror,6.546484351158142,True,True,1,4,2,melancholy,0.8,cupine I Thought She Had Been Eating For Days. I Didn't Know How To Tell Her It Was My Only Daughter
+246,horror,-12.304632306098938,False,False,1,1,1,humor,0.1,"I had the 17,000th Cut Thro..."
+247,horror,8.700989007949829,True,True,1,4,4,melancholy,0.9,"It was 2 A.M. on the Third Day of the Nightmare, and My Heart Was Alone, as the Timeless Night Overc"
+248,horror,0.1694445610046386,True,True,1,4,1,melancholy,0.9,When you finally overcame the pain of your memory the wind brings the sound of her voice. When you f
+249,horror,5.637233912944794,True,True,1,3,4,horror,0.9,"standing at the foot of the raised bed, His Body Shivering and My Blood Freezing, I Was An Inhuman A"
+250,horror,5.021054744720459,True,True,1,3,4,horror,0.9,"The Family is Frightened, I Can't Breathe, I Can't Move, I Can't Speak Words for You, I Can't See Yo"
+251,horror,2.3290109634399414,True,True,1,3,5,horror,0.9,"The Eyes of the Demons are a Nightmare Within the Walls of the Shadows that Reach Out, the Demonic, "
+252,horror,5.223865747451782,True,True,1,5,2,melancholy,0.9,"...
+The Only Way I Can Bear To Stay Awake Is With Music Daniel Labo I've Not Heard Her Voice For Two"
+253,horror,0.689542293548584,True,True,1,2,5,horror,0.95,"anged myself later and my baby's corpse still moved, its eyes filling with blood, looking at me thro"
+254,horror,4.732507228851318,True,True,1,2,4,horror,0.9,It's a sound that would make my skin crawl and my insides twist. I had heard the faint cries from th
+255,horror,7.040023773908615,True,True,1,3,5,horror,0.9,"uffle the sound of his screams as he drifted away in a pool of his own Blood, I had not known what t"
+256,horror,8.386955976486206,True,True,1,3,4,horror,0.9,"He had moved everything out, and I knew that I would be going into a House of Fear, and It Was Alive"
+257,horror,5.964635372161865,True,True,1,3,4,horror,0.9,"...
+""Mom, I'm Lost"" I Forever Devour the Dead Since the day I was born, I knew I Was Cursed to the C"
+258,horror,7.881125628948212,True,True,1,3,4,horror,0.9,"The Screaming Child Will Cry When You Search for Her, But She Will Die If You Can't Find Her, For Yo"
+259,horror,1.6894021034240725,True,True,1,3,5,horror,0.9,"From the depths I'll come, alluring you to be My meal, My Appetite, I Can't Feel Your Pain.
+The long"
+260,horror,3.2863588333129883,True,True,1,4,5,horror,0.9,"A young man is held captive by the Shadows, Touched by the Night Falling, and Driven by the Mere Dea"
+261,horror,2.4776164293289185,True,True,1,4,3,melancholy,0.9,", the air quickly rushing from your lungs, your skin goes cold. Your dog is laying on your dead body"
+262,horror,3.841432571411133,True,True,1,3,5,horror,0.9,"faceless woman in my dream clutched my chin as I plunged to the darkness, a Dark Entity Breeding Fro"
+263,horror,4.398012638092041,True,True,1,4,3,melancholy,0.9,"I Tried to Get the Feeling of My Death, but I Didn’t Succeed, and I Didn't Want to Be a Ghost with N"
+264,horror,3.909595727920532,True,True,1,5,1,melancholy,0.9,"since I entered her into the World She Was An Old Woman I was the Only One Who Was Left, the Only On"
+265,horror,-0.3074703216552734,False,True,1,4,2,melancholy,0.8,"It's even nicer to know that I'm Not Lost, Not Found, Not Invisible, That I Am Someone, That I Am a "
+266,horror,4.200443267822266,True,True,1,2,5,horror,0.9,"A woman in a black hooded cloak stands in the corner of the room, her dark eyes staring at you blind"
+267,horror,-1.907325267791748,False,True,1,4,4,melancholy,0.9,"the Black Figure as It Closes, but I Hear I Hear It and I Cannot Bear it. I Cannot Bear the Weight o"
+268,horror,6.790859937667847,True,True,1,3,5,horror,0.9,"The floor is wet with blood, and you can hear the screams of the other you as she is attacked. You a"
+269,horror,3.7177271842956543,True,True,1,3,4,horror,0.9,"I am a dj vu, and I am the only one who knows the Truth. I have no Memories of the Past, the Family "
+270,horror,10.685956716537476,False,True,1,1,1,humor,0.0,nan
+271,horror,-3.7796378135681152,False,True,1,4,3,melancholy,0.9,"I was one of the few left who had chosen to leave the Safety of the ‘Known’ Behind, to Confront the "
+272,horror,-3.7399978637695312,False,True,1,4,5,horror,0.9,"eps, My Eyes Turned Black, I Could Not Move, She Would Not Come To Me, She Moved Too Quickly, I Coul"
+273,horror,-0.2489662170410156,False,True,1,3,4,horror,0.7,"door behind him opening as his mother's footsteps Followed ""Who Are You? I Am Afraid to Go On"" When "
+274,horror,7.633712530136108,True,True,1,4,5,horror,0.9,"20 Minutes To Die, or the Bile Drenched Darkness That Follows Me As I Lurch Through This Shattered W"
+275,horror,-1.129072189331055,False,True,1,4,2,melancholy,0.9,"I sat down, unable to speak, still unable to see my mother's face as I had done so often the past th"
+276,horror,9.390839099884031,True,True,1,2,4,horror,0.9,"7th Room of Terror, and the Sound of the Screaming Chosen by the Bronze Skeleton, I Couldn't Do It, "
+277,horror,-1.3237836360931396,False,True,1,4,3,melancholy,0.8,"a Car Behind Me, I Saw Myself in the Rear View Mirror, I Thought I Was a Stranger in the Alley, I Ha"
+278,horror,5.89372992515564,True,True,1,4,3,melancholy,0.7,"...
+A Story of Marshes I am a Changed Woman This is a Story of Bones My Blood is a River in the Shap"
+279,horror,6.373256325721741,True,True,1,5,4,melancholy,0.9,"It was to be the Last Meal of a 27-Year-Old Girl, Her Family, Her Friends, and Her Soul, as She Had "
+280,horror,4.86538028717041,True,True,1,4,3,melancholy,0.9,"I feel its faint tremble, giving me a brief sense of calm as I desperately search to prepare for the"
+281,horror,2.8000895977020264,True,True,1,5,4,melancholy,0.9,"97-year-old Korean Girl Rose, with 14 Hours to Live, Is Being Forced to Live Alone, She Says, ""I'm N"
+282,horror,4.32961893081665,True,True,1,3,4,horror,0.8,"but I was powerless to see my problems for what they were. I was the Ghost, a dark figure that I cou"
+283,horror,7.482008904218674,True,True,1,2,5,horror,0.9,"It is a Powerful Presence, and It Is Only A Few Feet Behind You, Waiting For You To Turn To Face It."
+284,horror,-0.2897982597351074,False,True,1,3,5,horror,0.9,"Decide the Shattered Remembrance as You Are Meant to Do So in This Home of Horrors, the Trapped in t"
+285,horror,6.089938998222351,True,True,1,3,4,horror,0.9,A Pair of Eyes The Stranger In The Shadows The School The House That Sami Was Afraid To Enter The Si
+286,horror,0.9914760589599608,True,True,1,4,4,melancholy,0.9,"years, Only When I Was a Child, I Was in a State of Shock, I Can't Touch the Scary Things, I Hear th"
+287,horror,-2.8265256881713867,False,True,1,3,4,horror,0.9,"The last gasp of my body is a tortured scream, but again the emptiness of the empty tunnel ahead is "
+288,horror,-3.1254674792289734,False,False,1,1,1,humor,0.0,nan
+289,horror,12.59498167037964,True,True,1,4,4,melancholy,0.9,"I am My Shadow, I am the Only One, I am Her Eyes, I Have No One, I Am the Darkness, I Am the Screams"
+290,horror,3.071122646331787,True,True,1,3,1,melancholy,0.7,"It's As If the Tears are Meant to Flow, But I'm a Child and I'm Free. I Have the Power That I Was Me"
+291,horror,1.8348264694213867,True,True,1,4,4,melancholy,0.9,"Can my Sister Ava Find Her Way Into the Dark Beyond the Door, or Will My Despair Destroy Her?
+I must"
+292,horror,2.69268798828125,True,True,1,2,3,horror,0.7,My affinity for the supernatural has followed me for many years and I am always on the hunt for the 
+293,horror,3.592221736907959,True,True,1,4,5,horror,0.9,"The girl standing inside is unaware she has been chosen to Be the Last of the Women, Her Body a Pris"
+294,horror,8.418904781341553,True,True,1,2,5,horror,0.9,"s Sin, but it was only when Her Name Was Shouted Out in Blood that the Horrifying Creature Could be "
+295,horror,4.2614723443984985,True,True,1,3,4,horror,0.9,"she called, reaching off the panel of the Light of Death that surrounded her, 'She Worshipped Throug"
+296,horror,3.01855206489563,True,True,1,4,3,melancholy,0.8,"As the water from the April Memories of My Granny, I Was Told She Had Died At the Mercy of the Black"
+297,horror,2.967271327972412,True,True,1,2,5,horror,0.9,"not commit, but in the darkness of the night, the Fury of the Terrors Lurking in the Shadows, the Te"
+298,horror,5.263759613037109,True,True,1,4,3,melancholy,0.9,I had no idea my mother was so suffocating until I was Locked Inside My Own Home For Four Hours as I
+299,horror,4.087846517562866,True,True,1,4,2,melancholy,0.8,"WANTED to be Alone, But Then I Saw Her, And I Could Not Die. I Don't See The Face Of A Stranger, But"

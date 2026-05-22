@@ -1,0 +1,31 @@
+{
+  "probe_accs": {
+    "humor_vs_melancholy": {
+      "cv_mean": 0.9916452808668378,
+      "cv_std": 0.006075917795805096
+    },
+    "humor_vs_horror": {
+      "cv_mean": 0.9271518987341771,
+      "cv_std": 0.021458543181415535
+    },
+    "melancholy_vs_horror": {
+      "cv_mean": 0.9798417721518987,
+      "cv_std": 0.015237465002064927
+    }
+  },
+  "probe_orthogonality": {
+    "hm_dot_hh": 0.37683844566345215,
+    "hm_dot_mh": -0.6832772493362427,
+    "hh_dot_mh": 0.2599017918109894
+  },
+  "steering_vec_orthogonality": {
+    "humor_dot_mel": -0.9972169995307922,
+    "humor_dot_horror": -0.3167259097099304,
+    "mel_dot_horror": 0.31514936685562134
+  },
+  "sv_probe_alignment": {
+    "cos_steer_humor_w_hm": 0.9138855934143066,
+    "cos_steer_horror_w_hh": -0.9126930236816406
+  },
+  "PROBE_LAYER": 26
+}

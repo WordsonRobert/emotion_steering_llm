@@ -1,0 +1,43 @@
+{
+  "eval_temp": 0.7,
+  "avg_diagonal_T07": 0.9,
+  "per_emotion_T07": {
+    "humor": {
+      "both": 0.6,
+      "pred_correct": 0.92,
+      "coherent": 0.76,
+      "mean_shift": 3.719338052943349
+    },
+    "melancholy": {
+      "both": 0.58,
+      "pred_correct": 0.82,
+      "coherent": 0.99,
+      "mean_shift": 0.46118836671113966
+    },
+    "horror": {
+      "both": 0.67,
+      "pred_correct": 0.96,
+      "coherent": 0.97,
+      "mean_shift": 2.1499200955033304
+    }
+  },
+  "vector_comparison_n": 50,
+  "vector_comparison": {
+    "humor": {
+      "mean_diff": 0.58,
+      "probe_w": 0.4,
+      "random": 0.36
+    },
+    "melancholy": {
+      "mean_diff": 0.52,
+      "probe_w": 0.6,
+      "random": 0.44
+    },
+    "horror": {
+      "mean_diff": 0.74,
+      "probe_w": 0.8,
+      "random": 0.5
+    }
+  },
+  "bonferroni_n_comparisons": 9
+}
